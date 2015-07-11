@@ -1,0 +1,27 @@
+<suite name="Suite" parallel="tests" thread-count="2">
+ 
+<test name="ChromeResult">
+ 
+<parameter name="Browser" value="chrome" />
+ 
+<classes>
+ 
+<class name="com.Ecareautomation.testNg.CrossBrowser"/>
+ 
+</classes>
+ 
+</test>
+ 
+<test name="FirefoxResult">
+ 
+<parameter name="Browser" value="FF" />
+ 
+<classes>
+ 
+<class name="com.Ecareautomation.testNg.CrossBrowser"/>
+ 
+</classes>
+ 
+</test>
+ 
+</suite>

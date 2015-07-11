@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test name="Regression Test Suite(failed)">
+    <classes>
+      <class name="com.Ecareautomation.testNg.AdvanceReporting">
+        <methods>
+          <include name="facebooklog"/>
+        </methods>
+      </class> <!-- com.Ecareautomation.testNg.AdvanceReporting -->
+      <class name="com.Ecareautomation.testNg.Classone">
+        <methods>
+          <include name="A"/>
+          <include name="B"/>
+          <include name="f"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.Ecareautomation.testNg.Classone -->
+      <class name="com.Ecareautomation.testNg.JavaScriptExecutor">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- com.Ecareautomation.testNg.JavaScriptExecutor -->
+      <class name="com.Ecareautomation.testNg.PerformAction">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- com.Ecareautomation.testNg.PerformAction -->
+      <class name="com.Ecareautomation.testNg.Facebooklogin">
+        <methods>
+          <include name="A"/>
+          <include name="B"/>
+          <include name="login"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.Ecareautomation.testNg.Facebooklogin -->
+      <class name="com.Ecareautomation.testNg.Robotclass">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- com.Ecareautomation.testNg.Robotclass -->
+      <class name="com.Ecareautomation.testNg.CrossBrowser">
+        <methods>
+          <include name="test1"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.Ecareautomation.testNg.CrossBrowser -->
+      <class name="com.Ecareautomation.testNg.Classtwo">
+        <methods>
+          <include name="f"/>
+          <include name="X"/>
+          <include name="Y"/>
+          <include name="Z"/>
+        </methods>
+      </class> <!-- com.Ecareautomation.testNg.Classtwo -->
+      <class name="com.Ecareautomation.testNg.Dependsmultiple">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="B"/>
+          <include name="C"/>
+          <include name="A"/>
+          <include name="D"/>
+        </methods>
+      </class> <!-- com.Ecareautomation.testNg.Dependsmultiple -->
+      <class name="com.Ecareautomation.testNg.NewTest">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- com.Ecareautomation.testNg.NewTest -->
+      <class name="com.Ecareautomation.testNg.ChromeTest">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- com.Ecareautomation.testNg.ChromeTest -->
+      <class name="com.Ecareautomation.testNg.MultipleTest_multipleclass">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- com.Ecareautomation.testNg.MultipleTest_multipleclass -->
+      <class name="com.Ecareautomation.testNg.Loggingclass">
+        <methods>
+          <include name="methodSkip"/>
+          <include name="testwillfail"/>
+          <include name="dividedByZero"/>
+          <include name="methodAddingNumbers"/>
+        </methods>
+      </class> <!-- com.Ecareautomation.testNg.Loggingclass -->
+      <class name="com.Ecareautomation.webdriver.NewTest">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- com.Ecareautomation.webdriver.NewTest -->
+      <class name="com.Ecareautomation.testNg.priority">
+        <methods>
+          <include name="C"/>
+          <include name="A"/>
+          <include name="D"/>
+          <include name="E"/>
+          <include name="B"/>
+        </methods>
+      </class> <!-- com.Ecareautomation.testNg.priority -->
+      <class name="com.Ecareautomation.testNg.BaseClassone">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- com.Ecareautomation.testNg.BaseClassone -->
+      <class name="com.Ecareautomation.testNg.DataBaseConnection">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- com.Ecareautomation.testNg.DataBaseConnection -->
+    </classes>
+  </test> <!-- Regression Test Suite(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

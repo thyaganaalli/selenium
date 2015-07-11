@@ -1,0 +1,4 @@
+08-07-2015 12:00:32 INFO [log4j]: New driver instantiated
+08-07-2015 12:00:44 INFO [log4j]: browser is launched
+08-07-2015 12:00:44 INFO [log4j]: Implicit wait applied on the driver for 10 seconds
+08-07-2015 12:00:44 INFO [log4j]: browser is closed

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Test Suite"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.149">
+  <properties />
+  
+  
+            <testcase name="f" time="1.149" classname="com.Ecareautomation.webdriver.NewTest" />
+      
+</testsuite>

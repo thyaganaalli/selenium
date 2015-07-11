@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Test Suite"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="4"
+           time="0.001">
+  <properties />
+  
+            <testcase name="methodAddingNumbers" time="0.0" classname="com.Ecareautomation.testNg.Loggingclass">
+          <skipped />
+    </testcase>
+            <testcase name="methodSkip" time="0.0" classname="com.Ecareautomation.testNg.Loggingclass">
+          <skipped />
+    </testcase>
+            <testcase name="dividedByZero" time="0.0" classname="com.Ecareautomation.testNg.Loggingclass">
+          <skipped />
+    </testcase>
+            <testcase name="testwillfail" time="0.0" classname="com.Ecareautomation.testNg.Loggingclass">
+          <skipped />
+    </testcase>
+  
+  
+</testsuite>

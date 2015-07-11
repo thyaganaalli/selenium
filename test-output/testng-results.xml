@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40" started-at="2015-07-11T07:31:00Z" finished-at="2015-07-11T07:31:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="40" started-at="2015-07-11T07:31:00Z" finished-at="2015-07-11T07:31:00Z">
+      <class name="com.Ecareautomation.testNg.DemoTest1">
+        <test-method status="PASS" signature="G()[pri:0, instance:com.Ecareautomation.testNg.DemoTest1@16995df]" name="G" duration-ms="10" started-at="2015-07-11T13:01:00Z" finished-at="2015-07-11T13:01:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- G -->
+        <test-method status="PASS" signature="I()[pri:0, instance:com.Ecareautomation.testNg.DemoTest1@16995df]" name="I" duration-ms="0" started-at="2015-07-11T13:01:00Z" finished-at="2015-07-11T13:01:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- I -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.Ecareautomation.testNg.DemoTest1@16995df]" name="f" duration-ms="0" started-at="2015-07-11T13:01:00Z" finished-at="2015-07-11T13:01:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="H()[pri:0, instance:com.Ecareautomation.testNg.DemoTest1@16995df]" name="H" duration-ms="0" started-at="2015-07-11T13:01:00Z" finished-at="2015-07-11T13:01:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- H -->
+      </class> <!-- com.Ecareautomation.testNg.DemoTest1 -->
+      <class name="com.Ecareautomation.testNg.DemoTest">
+        <test-method status="PASS" signature="A()[pri:0, instance:com.Ecareautomation.testNg.DemoTest@1ffcba5]" name="A" duration-ms="10" started-at="2015-07-11T13:01:00Z" finished-at="2015-07-11T13:01:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A -->
+        <test-method status="PASS" signature="C()[pri:0, instance:com.Ecareautomation.testNg.DemoTest@1ffcba5]" name="C" duration-ms="0" started-at="2015-07-11T13:01:00Z" finished-at="2015-07-11T13:01:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C -->
+        <test-method status="PASS" signature="B()[pri:0, instance:com.Ecareautomation.testNg.DemoTest@1ffcba5]" name="B" duration-ms="0" started-at="2015-07-11T13:01:00Z" finished-at="2015-07-11T13:01:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B -->
+      </class> <!-- com.Ecareautomation.testNg.DemoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
